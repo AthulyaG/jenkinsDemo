@@ -1,5 +1,5 @@
 import TwoNumbers
 def test_add():
-	assert math_func.add(7,3) == 10
-	assert math_func.add(2,3) == 5
+	assert TwoNumbers.add(7,3) == 10
+	assert TwoNumbers.add(2,3) == 5
 
