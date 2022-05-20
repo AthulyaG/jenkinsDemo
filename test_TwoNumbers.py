@@ -1,4 +1,4 @@
-import math_func
+import TwoNumbers
 def test_add():
 	assert math_func.add(7,3) == 10
 	assert math_func.add(2,3) == 5
